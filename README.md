@@ -1,1 +1,1 @@
-# lab-1
+# Financial operations lab-1, analyzing NASDAQ
